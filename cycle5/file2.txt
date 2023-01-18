@@ -1,0 +1,2 @@
+2.Its design philosophy emphasizes code readability 
+4.It supports multiple programming paradigms
