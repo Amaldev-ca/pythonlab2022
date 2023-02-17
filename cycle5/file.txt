@@ -1,4 +1,0 @@
-1.Python is a high-level, general-purpose programming language.
-2.Its design philosophy emphasizes code readability 
-3.Python is dynamically-typed and garbage-collected.
-4.It supports multiple programming paradigms
